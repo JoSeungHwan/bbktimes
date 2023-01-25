@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "380875573898",
+    "project_id": "bbk-times-dd64b",
+    "storage_bucket": "bbk-times-dd64b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380875573898:android:18d8fc73abab5577587b73",
+        "android_client_info": {
+          "package_name": "com.example.bbktimes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380875573898-j9dfr19570h4k401uvh6m326t3oo5v5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_EptYiPgBA_0EK64bSIoptiixpkrY4Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380875573898-j9dfr19570h4k401uvh6m326t3oo5v5m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "380875573898-i6iu6ldg5d6deli0p9cn1jp7tf0tto92.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bbktimes.bbktimes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
